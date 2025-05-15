@@ -6,5 +6,5 @@ How Create URL:
   CLick on live site... it will be error - dont close
   go back to Github and code page and get the filename... copy and paste this at the end of the URL
 
-Collections JSON - https://daza10.github.io/fusion/Fusion_Collections.json
+Collections JSON - https://daza10.github.io/DJ_fusion_collections/Fusion_Collections.json
 Gentres
